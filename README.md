@@ -6,7 +6,8 @@ It is very rarely updated.
 
 He can also be found on
 
-- [twitter](https://twitter.com/kcollasarundell)
+- [mastodon](https://eigenmagic.net/@kca)
+- [bsky](https://bsky.app/profile/kca.wtf)
 - [linkedin](https://www.linkedin.com/in/kca/)
 
 And further information on his [cv](https://kca.id.au/cv)
